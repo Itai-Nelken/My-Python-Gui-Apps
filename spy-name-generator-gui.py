@@ -16,6 +16,7 @@ def choose_name():
 
 #app
 app = App("TOP SECRET!")
+app.height = 350
 
 #widgets
 title = Text(app, "Push the red button to find out your spy name")
