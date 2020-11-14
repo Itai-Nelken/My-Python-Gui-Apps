@@ -14,4 +14,8 @@ sudo apt update && sudo apt install python-pip && pip3 install guizero
    ```
    
    ## How I created the scripts?
-   I used this [book](https://magpi.raspberrypi.org/books/create-guis), you can Download a free PDF.
+   List of books I used:
+   
+   * [rpi beginners guide](https://magpi.raspberrypi.org/books/beginners-guide-4th-ed)
+   * [create gui's with python](https://magpi.raspberrypi.org/books/create-guis)
+   the books can be downloaded as a free PDF file.
