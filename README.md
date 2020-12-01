@@ -17,5 +17,5 @@ sudo apt update && sudo apt install python-pip && pip3 install guizero
    List of books I used:
    
    * [rpi beginners guide](https://magpi.raspberrypi.org/books/beginners-guide-4th-ed)
-   * [create gui's with python](https://magpi.raspberrypi.org/books/create-guis)
+   * [create gui's with python](https://magpi.raspberrypi.org/books/create-guis)<br>
    the books can be downloaded as a free PDF file.
