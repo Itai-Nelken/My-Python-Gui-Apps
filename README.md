@@ -4,12 +4,12 @@ Python GUI apps created with guizero
 ## How to run?
 1. download the python script file you want.
 2. Install guizero: 
-```sh-session
+```sh
 sudo apt update && sudo apt install python-pip && pip3 install guizero
 ```
 3. Run the Code!:
    open terminal in the directory where the script is and type:
-   ```sh-session
+   ```sh
    python3 <the name of the file.py>
    ```
    
