@@ -1,6 +1,5 @@
 # My-Python-Gui-Apps
-Python GUI apps created with guizero
-
+Python scripts I created in the process of learning python.
 ## How to run?
 1. download the python script file you want.
 2. Install guizero: 
