@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from guizero import App, Text
 
 app = App(title="hello, world!")

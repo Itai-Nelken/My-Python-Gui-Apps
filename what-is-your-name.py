@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 userName = input ("what is your name? ")
 #print ("hello ", userName)
 while userName != "Itai":

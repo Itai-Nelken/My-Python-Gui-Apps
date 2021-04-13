@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 print("starting")
 while True:
     for i in range (10):

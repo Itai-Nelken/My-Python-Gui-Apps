@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # This program syas hello and asks for my name
 
 print('Hello, World!')
