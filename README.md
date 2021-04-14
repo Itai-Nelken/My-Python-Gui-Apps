@@ -2,13 +2,17 @@
 Python scripts I created in the process of learning python.
 ## How to run?
 1. download the python script file you want.
-2. Install guizero: 
-```sh
+2a. Install guizero: 
+```bash
 sudo apt update && sudo apt install python-pip && pip3 install guizero
+```
+2b. Install tkinter:
+```bash
+sudo apt install pyrhon3-tk
 ```
 3. Run the Code!:
    open terminal in the directory where the script is and type:
-   ```sh
+   ```bash
    python3 <the name of the file.py>
    ```
    
