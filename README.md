@@ -8,7 +8,7 @@ sudo apt update && sudo apt install python-pip && pip3 install guizero
 ```
 2b. Install tkinter:
 ```bash
-sudo apt install pyrhon3-tk
+sudo apt install python3-tk
 ```
 3. Run the Code!:
    open terminal in the directory where the script is and type:
