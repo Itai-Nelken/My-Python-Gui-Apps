@@ -8,7 +8,7 @@ class print_color():
 	def green(text):
 		print("\033[32m",text,"\033[0m")
 
-class errors:
+class errors():
 	def exit(exit_code):
 		sys.exit(exit_code)
 	def error(text):
